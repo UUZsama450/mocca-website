@@ -9,3 +9,5 @@
 
 /* Keep the updated composer visible in both feature screenshots. */
 .story-screen{margin-bottom:30px}
+
+.faq-list p a{color:var(--link);text-decoration:underline;text-underline-offset:3px}
